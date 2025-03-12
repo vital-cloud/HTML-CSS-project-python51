@@ -1,0 +1,105 @@
+/* * { /* Глобальное обращение ко всем тегам */
+/*	color: black;
+	font-size: 14px;
+} */
+
+/* ОФОРМЛЕНИЕ МЕНЮ: */
+header {
+	background: #DCDCDC;
+	border-bottom: 4px solid #FFAB51;
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu1 {
+	width: auto;
+	display: block;
+	margin: 0 auto 0px;
+}
+
+#menu1 ul {
+	list-style: none; /* Убираем стили нумерованного списка */
+	display: flex; /* Делаем элементы меню строчными (друг за другом в строку) */
+	margin: 0px;
+	padding: 0px;
+	padding-left: 0;
+}
+
+#menu1 ul li {
+	width: 75px;
+	height: 30px;
+	font-size: 18px;
+	border-right: 4px solid #FFAB51;
+	background: #DCDCDC;
+	text-align: center; /* Горизонтальное положение: */
+	vertical-align: middle; /* Вертикальное положение: */
+	transition: 0.5s; /* Задержка подсветки наведенной ссылки: */
+	margin: 0;
+	display: inline-block;
+}
+
+#menu1 ul li a {
+	text-decoration: none;
+}
+
+#menu1 ul li:hover {
+	background: #A9A9A9;
+}
+
+
+body {
+	background: red;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	font-size: 25px;
+}
+
+h1,h2,h3 {
+	color: yellow;
+}
+
+h4 {
+	color: green;
+}
+
+h5 {
+	color: rgb(250, 128, 114);
+}
+
+h6 {
+	color: #f08080;
+}
+
+/* Свойства для абзацев: */
+/* Обращение к id: */
+#p1 {
+	/* Нужен для отображения пробелов абзаца: */
+	/* normal |
+	nowrap (не учитывать пробелы и переносы) |
+	pre (отображение с учетом всех переносов и пробелов) |
+	pre-line (не учитывать пробелы, перенести текст на следующую строку) |
+	pre-wrap (сохраняет все пробелы и переносы, но если строка не помещается то текст будет автоматически перенесен) */
+	white-space: nowrap;
+	/* Перенос слов внутри слов: | normal |
+	break-all (обавляет перенос строк так, чтобы слово поместилось в заданную ширину) |
+	keep-all (запрещает перенос слов) |  */
+	word-break: break-all;
+	width: 200px;
+	height: 200px;
+}
+
+/* Обращение к id: */
+#p2 {
+	white-space: pre;
+	writing-mode: horizontal-tb; /* Горизонтальное сверху вниз | vertical-rl (вертикальное сверху вниз справо налево) | vertical-lr (вертикальное сверху вниз слево направо) */
+}
+
+/* Обращение к классу: */
+.p3 {
+	white-space: pre-line;
+	writing-mode: vertical-lr;
+}
