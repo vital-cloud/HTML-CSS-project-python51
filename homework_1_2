@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+    <head>
+        <title>
+            Домашняя работа_1 python51
+        </title>
+        <link href="style.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        <div>
+            <h1>Romeo and Juliet</h1>
+        </div>
+        <div>
+            <h2>ACT 1</h2>
+        </div>
+        <div>
+            <h2>PROLOGUE</h2>
+        </div>
+        <div>
+            <p>Two households, both alike in dignity,<br>
+                In fair Verona, where we lay our scene,<br>
+                From ancient grudge break to new mutiny,<br>
+                Where civil blood makes civil hands unclean.<br>
+                From forth the fatal loins of these two foes<br>
+                A pair of star-crossed lovers take their life;<br>
+                Whose misadventured piteous overthrows<br>
+                Doth with their death bury their parents' strife.<br>
+                The fearful passage of their death-marked love,<br>
+                And the continuance of their parents' rage,<br>
+                Which, but their children's end, nought could remove,<br>
+                Is now the two hours' traffic of our stage;<br>
+                The which if you with patient ears attend,<br>
+                What here shall miss, our toil shall strive to mend.<br>
+            </p>
+        </div>
+        <div>
+            <h2>SCENE I. Verona. A public place.</h2>
+        </div>
+        <div>
+            <p>Enter SAMPSON and GREGORY, of the house of Capulet, armed with swords and buckers</p>
+        </div>
+        <div>
+            <h3>SAMPSON</h3>
+        </div>
+        <div>
+            <p>Gregory, o' my word, we'll not carry coals.</p>
+        </div>
+        <div>
+            <h3>
+                GREGORY
+            </h3>
+        </div>
+        <div>
+            <p>No, for then we should be colliers.</p>
+        </div>
+    </body>
+    <footer>
+
+    </footer>
+</html>
