@@ -1,0 +1,61 @@
+body {
+	background-color: #F0F0F0;
+}
+
+.h2absolut {
+	background-color: #F63801;
+	color: white;
+	width: 500px;
+	position: absolute;
+	left: 4em;
+	top: 4em;
+	margin-left: -40px;
+	padding-top: -20;
+}
+
+.number label {
+	display: inline-block;
+	width: 170px;
+	text-align: left;
+}
+
+.name label {
+	display: inline-block;
+	width: 170px;
+	text-align: left;
+}
+
+
+form {
+	width: 500px;
+	padding: 2em;
+	padding-top: 100px;
+	margin: 20px 40px;
+	border: 1px solid rgba(23,4,56,0.829);
+	border-radius: 1em;			
+	background-color: #2AC2D2; 
+}
+
+textarea {vertical-align: top;}
+
+input, textarea {
+	font: 1em sans-serif;
+	width: 200px;
+	border: 1px solid #777;
+	background-color: #95F0EA;
+}
+
+input:focus, textarea:focus {background-color: green; color: white;}
+		
+#submitbtn {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.p {
+  font-family: "Genos", sans-serif;
+  font-weight: <weight>;
+  font-style: normal;
+}
+

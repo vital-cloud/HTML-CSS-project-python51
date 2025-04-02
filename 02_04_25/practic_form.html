@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<title>Create form</title>
+	<link href="style_practic_form.css" rel="stylesheet">
+	<!-- <style>
+		ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		form li + li {
+			margin-top: 0.5em;
+		}
+		label {
+			display: inline-block;
+			width: 70px;
+			text-align: right;
+		}
+		form {
+			width: 500px;
+			padding: 2em;
+			padding-top: 100px;
+			margin: 20px 40px;
+			border: 1px solid rgba(23,4,56,0.829);
+			border-radius: 1em;			
+			background-color: #2AC2D2; 
+		}
+		textarea {vertical-align: top;}
+		input, textarea {
+			font: 1em sans-serif;
+			width: 200px;
+			border: 1px solid #777;
+		}
+		input:focus, textarea:focus {background-color: green; color: white;}
+		#submitbtn {
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+		}
+	</style> -->
+</head>
+<body>
+	<!-- <form action ='search/' method='GET'>
+		<h2>Окно поиска</h2><br>
+		<input type="text"><br>
+		<input type="button" value="click"><br>
+		<input type="checkbox"><br>
+		<input type="color"><br>
+		<input type="datetime"><br>
+		<input type="email"><br>
+		<input type="file"><br>
+		<input type="image"><br>
+		<input type="month"><br>
+		<input type="number"><br>
+		<input type="password"><br>
+		<input type="range"><br>
+		<input type="reset"><br>
+		<input type="search"><br>
+		<input type="tel"><br>
+		<input type="url"><br>
+		<input type="week"><br>
+		<input type="submit" value="search"><br>
+	<form> -->
+	<hr>
+	<!-- <form action='search/' method='POST'>
+		<h3>Форма отправки сообщения</h3>
+		<ul>
+			<li>
+				<label for='uname'> Name: </label>
+				<input type='text' id='uname' name='Username'>
+			</li>
+			<li>
+				<label for='email'> Email: </label>
+				<input type='email' id='email' name='UserEmail'>
+			</li>
+			<li>
+				<label for='message'> Message: </label>
+				<input type='textarea' id='message' name='UserMessage'>
+			</li>
+			<li>
+				<input type='checkbox' id='check' name='UserCheck'>
+				<label for='check'> После заполнения формы, необходимо подтвердить П.К. </label>
+			</li>
+			<li>
+				<input type='submit' value='Send my message' id='submitbtn'>
+			</li>
+		</ul>
+	</form> -->
+	<hr>
+	<form>
+		<div class='h2absolut'><h2>CREDIT CARD DETAIL</h2>
+		</div>
+		<div class='number'>
+			<label> Card Number </label><br>
+			<input type='text' placeholder='1234 5678 9012 3456'>
+		</div>
+		<div class='name'>
+			<label> Name On Card </label><br>
+			<input type='text' placeholder='Name Surname'>
+		</div>
+		<div class='div3block'>
+			<div>
+				<label> Expiry Date </label><br>
+				<input type='number' placeholder='01'>
+			</div>
+			<div>
+				<input type='number' placeholder='2025'>
+			</div>
+			<div>
+				<label>CVV/CVN</label>
+				<input type='password' placeholder='***'>
+			</div>
+		</div>
+	</form>
+</body>
