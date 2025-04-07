@@ -1,9 +1,157 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.8">
   <diagram name="Страница — 1" id="gky2GNUOyyVO2ltQV-7R">
-    <mxGraphModel>
+    <mxGraphModel dx="1420" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-1" target="5Z48T9ZlDEk-pxSdMudv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-1" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-2" value="Блок схема&lt;div&gt;&amp;nbsp;управления&lt;div&gt;&amp;nbsp;автомобилем&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-5" target="5Z48T9ZlDEk-pxSdMudv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-5" value="Выхожу&lt;div&gt;из дома&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-6" target="5Z48T9ZlDEk-pxSdMudv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-6" value="Снимаю&lt;div&gt;с сигнализации&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-7" target="5Z48T9ZlDEk-pxSdMudv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-7" value="Сажусь в машину" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-8" target="5Z48T9ZlDEk-pxSdMudv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-8" value="Запускаю двигатель" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-10" target="5Z48T9ZlDEk-pxSdMudv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-10" value="Управляю автомобилем" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-11" target="5Z48T9ZlDEk-pxSdMudv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-11" value="Останавливаю&lt;div&gt;автомобиль&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-18" value="Поездка завершена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-20" value="Блок-схема&lt;div&gt;для покупки&lt;/div&gt;&lt;div&gt;велосипедных&lt;/div&gt;&lt;div&gt;шин&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="45" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-21" target="5Z48T9ZlDEk-pxSdMudv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-21" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-22" target="5Z48T9ZlDEk-pxSdMudv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-22" value="Хочу купить&lt;div&gt;шины на велик&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-23" target="5Z48T9ZlDEk-pxSdMudv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-23" target="5Z48T9ZlDEk-pxSdMudv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-23" value="Деньги&amp;nbsp;&lt;div&gt;есть?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-25" value="Покупаю" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-26" value="Становится грустно" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-29" value="Полный карман" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="288" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-30" value="До зарплаты еще неделя" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="288" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-31" value="Выбор завершен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="224" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-36" value="Блок-схема&lt;div&gt;для написания&lt;/div&gt;&lt;div&gt;романа&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="30" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-37" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-38" value="Пью кофе&lt;div&gt;пока не вдохновлюсь&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="273" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-39" value="Вдохновление&lt;div&gt;появилось?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="360" width="115" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-41" value="&lt;div&gt;Хочу написать роман, но&lt;/div&gt;чтобы написать&lt;div&gt;нужно вдохновление&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="757.5" y="170" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-42" value="Да,пошел&lt;div&gt;сочинять&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-43" value="Нет, кофе закончилось" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="900" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-37" target="5Z48T9ZlDEk-pxSdMudv-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="150" />
+              <mxPoint x="860" y="172" />
+              <mxPoint x="880" y="172" />
+              <mxPoint x="880" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-37" target="5Z48T9ZlDEk-pxSdMudv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.367;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-41" target="5Z48T9ZlDEk-pxSdMudv-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-38" target="5Z48T9ZlDEk-pxSdMudv-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
