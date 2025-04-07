@@ -126,8 +126,14 @@
         <mxCell id="5Z48T9ZlDEk-pxSdMudv-41" value="&lt;div&gt;Хочу написать роман, но&lt;/div&gt;чтобы написать&lt;div&gt;нужно вдохновление&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="757.5" y="170" width="175" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-42" target="5Z48T9ZlDEk-pxSdMudv-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Z48T9ZlDEk-pxSdMudv-42" value="Да,пошел&lt;div&gt;сочинять&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-43" target="5Z48T9ZlDEk-pxSdMudv-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Z48T9ZlDEk-pxSdMudv-43" value="Нет, кофе закончилось" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="900" y="480" width="120" height="60" as="geometry" />
@@ -151,6 +157,9 @@
         </mxCell>
         <mxCell id="5Z48T9ZlDEk-pxSdMudv-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Z48T9ZlDEk-pxSdMudv-38" target="5Z48T9ZlDEk-pxSdMudv-39">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z48T9ZlDEk-pxSdMudv-51" value="Завершено" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
