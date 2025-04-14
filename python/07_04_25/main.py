@@ -94,39 +94,60 @@
 # print(int(a[0])*int(a[1])*int(a[2])*int(a[3]))
 #
 # Строки и их свойства
-string = "my Name is AaA"
-print(type(strong)) #Проверка типа данных
-print(string + srting) #Сложение строк
-print(string * 4) #Умножение строк
-print(srting.capitalize()) #Приводит первую букву в верхний регистр (только первую!)
-print(srting.lower()) #Приводит все символы в нижний регистр
-print(srting.swapcase()) #Меняет текущий регистр буквы на противоположный
-print(srting.title()) #Преобразует первые буквы всех слов в верхний регистр
-print(srting.upper()) #преобразует все буквы в верхний регистр
-print(srting.count("my", start=0, end=5)) #Подсчитывает количество элементов в строке (start, end можно не писать)
-print(srting.endswith("!")) #Проверяет, заканчивается ли строка подстрокой
-print(srting.startswith("!")) #Проверяет, начинается ли строка подстрокой
-print(srting.find("is")) #Ищет подстроку в строке, слева направо
-print(srting.rfind("AaA")) #Ищет подстроку в строке, справо налево
-#Возвращает первое вхождение (индекс) подстроки
-print(srting.index()) #Ищет подстроку в строке, слева направо
-print(srting.rindex()) #Ищет подстроку в строке, справо налево
-#Возвращает первое вхождение (индекс) подстроки. Если элемента нет, выдаст ошибку
+# string = "my Name is AaA"
+# print(type(strong)) #Проверка типа данных
+# print(string + srting) #Сложение строк
+# print(string * 4) #Умножение строк
+# print(srting.capitalize()) #Приводит первую букву в верхний регистр (только первую!)
+# print(srting.lower()) #Приводит все символы в нижний регистр
+# print(srting.swapcase()) #Меняет текущий регистр буквы на противоположный
+# print(srting.title()) #Преобразует первые буквы всех слов в верхний регистр
+# print(srting.upper()) #преобразует все буквы в верхний регистр
+# print(srting.count("my", start=0, end=5)) #Подсчитывает количество элементов в строке (start, end можно не писать)
+# print(srting.endswith("!")) #Проверяет, заканчивается ли строка подстрокой
+# print(srting.startswith("!")) #Проверяет, начинается ли строка подстрокой
+# print(srting.find("is")) #Ищет подстроку в строке, слева направо
+# print(srting.rfind("AaA")) #Ищет подстроку в строке, справо налево
+# #Возвращает первое вхождение (индекс) подстроки
+# print(srting.index()) #Ищет подстроку в строке, слева направо
+# print(srting.rindex()) #Ищет подстроку в строке, справо налево
+# #Возвращает первое вхождение (индекс) подстроки. Если элемента нет, выдаст ошибку
+#
+# #Классификация (определение) строк
+# print(string.isalnum()) #Определяет, состоит ли строка из букв и чисел
+# print(string.isalpha()) #Определяет, состоит ли строка из букв
+# print(string.isdigit()) #Определяет, состоит ли строка из чисел
+# print(srting.slower()) #
+# print(srting.isupper()) #
+# print(srting.istitle()) #
+# print(srting.isspace()) #Проверяет наличие в строке пробельных символов
+#
+# #Форматирование и выравнивание строк
+# print("main".center(10, "*")) #Выравнивание строки по центру
+# print("main\t\t\t main".expandtabs(tabsize=8)) #Заменяет табуляцию на пробелы
+# print("main maim".ljust(10, "@")) #Выравнивание по левому краю
+# print("main maim".ljust(10, "?")) #Выравнивание по правому краю
+# print("main main".lstrip()) #Все пробельные символы с левого края будут удалены
+# print("main main".rstrip()) #Все пробельные символы с правого края будут удалены
+# print("main main".replace("main", "own")) #Заменяет подстроку
 
-#Классификация (определение) строк
-print(string.isalnum()) #Определяет, состоит ли строка из букв и чисел
-print(string.isalpha()) #Определяет, состоит ли строка из букв
-print(string.isdigit()) #Определяет, состоит ли строка из чисел
-print(srting.slower()) #
-print(srting.isupper()) #
-print(srting.istitle()) #
-print(srting.isspace()) #Проверяет наличие в строке пробельных символов
-
-#Форматирование и выравнивание строк
-print("main".center(10, "*")) #Выравнивание строки по центру
-print("main\t\t\t main".expandtabs(tabsize=8)) #Заменяет табуляцию на пробелы
-print("main maim".ljust(10, "@")) #Выравнивание по левому краю
-print("main maim".ljust(10, "?")) #Выравнивание по правому краю
-print("main main".lstrip()) #Все пробельные символы с левого края будут удалены
-print("main main".rstrip()) #Все пробельные символы с правого края будут удалены
-print("main main".replace("main", "own")) #Заменяет подстроку
+#Урок 14.04.25:
+#
+# value1 = int(input())
+# value2 = int(input())
+# userCh = int(input("Выберите действие : 1)Сложение"
+#                    " \n2)Вычитание \n3)Умножение \n4)Деление"
+#                    "\n Ваш выбор: "))
+# if userCh == 1:
+#     print(value1 + value2)
+# elif userCh == 2:
+#     print(value1 - value2)
+# elif userCh == 3:
+#     print(value1 * value2)
+# elif userCh == 4:
+#     try:
+#         print(value1 / value2)
+#     except ZeroDivisionError:
+#         print("Делить на ноль нельзя!")
+# else:
+#         print("Введены не те данные!")
