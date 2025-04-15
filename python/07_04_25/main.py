@@ -95,7 +95,7 @@
 #
 # Строки и их свойства
 # string = "my Name is AaA"
-# print(type(strong)) #Проверка типа данных
+# print(type(string)) #Проверка типа данных
 # print(string + srting) #Сложение строк
 # print(string * 4) #Умножение строк
 # print(srting.capitalize()) #Приводит первую букву в верхний регистр (только первую!)
