@@ -51,12 +51,33 @@
 # print("Оставшееся время ", hour, min, sec, sep=":")
 
 #Задание 2:
-diametr = int(input("Введите диаметр окружности: "))
-square = int(diametr/2 ** 2) * 3.14
-perimetr = int(diametr/2 * 3.14)
-print("Площадь окружности равна: ", square, "а периметр  равен: ", perimetr)
+# diametr = int(input("Введите диаметр окружности: "))
+# square = int(diametr/2 ** 2) * 3.14
+# perimetr = int(diametr/2 * 3.14)
+# print("Площадь окружности равна: ", square, "а периметр  равен: ", perimetr)
 
 #Задание 3:
 # price = int(input("Введите стоимость приставки: "))
 # all = int(input("Введите количество приставок: "))
 # discount = int(input("Введите процент скидки: "))
+
+#21/04/25
+# num = int(input("Введите число от 1 до 9, которое я сейчас перемножу: "))
+# for i in range(11):
+#      print(num, "*", i, "=", num * i)
+
+# val = input("укажите валюту (rub или tenge): ")
+# sum = int(input("укажите сумму, которую необходимо конвертировать: "))
+# if val == "rub":
+#      print("Ваш номинал: РУБЛИ;", "сумма: ", sum, "сумма в тенге после конвертации: ", sum * 5)
+# else:
+#      print("Ваш номинал: ТЕНГЕ;", "сумма: ", sum, "сумма в рублях после конвертации: ", sum / 5)
+
+diapazon1 = int(input("Введите первое число, определяющие начало границы диапазона: "))
+diapazon2 = int(input("Введите второе число, определяющие конец границы диапазона: "))
+number = int(input("Введите случайное число: "))
+for i in range(diapazon1, diapazon2):
+    if i == number:
+        print(f"!{i}!", end=' ')
+    else:
+        print(i, end=' ')
