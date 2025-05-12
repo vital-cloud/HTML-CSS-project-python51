@@ -69,7 +69,7 @@ for i in range(2):
 #Результаты вывести на экран.
 mylist = []
 while true:
-    value user = int(input("Введите число для списка (0-выход):"))
+    value_user = int(input("Введите число для списка (0-выход):"))
     if value_user == 0:
         break
     else:
